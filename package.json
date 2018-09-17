@@ -1,0 +1,18 @@
+{
+  "name": "pros-lib-atom-plugin",
+  "main": "./lib/pros-lib-atom-plugin",
+  "version": "0.0.1",
+  "description": "A package to provide a copy-to-clipboard libray tab for PROS 3.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "pros-lib-atom-plugin:toggle"
+  },
+  "repository": "https://github.com/atom/pros-lib-atom-plugin",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
